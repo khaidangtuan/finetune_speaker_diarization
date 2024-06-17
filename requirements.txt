@@ -1,0 +1,14 @@
+pyannote.audio==3.2.0
+pyannote.core==5.0.0
+pyannote.database==5.1.0
+pyannote.metrics==3.2.1
+pyannote.pipeline==3.0.1
+pytorch-lightning==2.3.0
+pytorch-metric-learning==2.5.0
+torch-audiomentations==0.11.1
+torch-pitch-shift==1.2.4
+torchmetrics==1.4.0.post0
+torchsummary==1.5.1
+tqdm==4.66.4
+transformers==4.41.2
+notebook
